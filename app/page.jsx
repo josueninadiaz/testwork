@@ -82,7 +82,7 @@ const InboxSharingConfiguration = () => {
                     <div>
                       <p className="font-medium">Subject line and metadata</p>
                       <p className="text-sm text-gray-400">
-                        We'll share the subject, participants, and timestamp with anyone in your workspace.
+                        We&apos;ll share the subject, participants, and timestamp with anyone in your workspace.
                       </p>
                     </div>
                   </div>
